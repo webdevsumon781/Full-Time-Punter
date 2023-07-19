@@ -14,7 +14,7 @@
   }
   .cardBody {
     width: unset;
-    margin: auto;
+    margin: 0px 20px !important;
     padding: 50px 0px;
   }
   .BannerTitle {
