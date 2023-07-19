@@ -1,0 +1,526 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  main {
+    overflow-x: hidden;
+  }
+  .logoArea img {
+    width: 250px !important;
+    height: 95px;
+    margin: 80px auto;
+  }
+  .contentArea {
+    margin: 20px auto;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .cardBody {
+    width: unset;
+    margin: auto;
+    padding: 50px 0px;
+  }
+  .BannerTitle {
+    font-style: normal;
+    text-align: center;
+    margin: 30px 20px;
+    font-size: 26pt;
+    line-height: 34pt;
+    color: #414042;
+  }
+  .bannerArea .subtitle {
+    font-size: 28pt;
+  }
+  .imageBox {
+    margin: 7px 0px;
+    width: 236px !important;
+  }
+  .boxTitle p {
+    font-size: 24pt !important;
+    line-height: 25pt !important;
+    padding: 37px 0px 14px;
+    font-weight: 600;
+  }
+  .boxBody p {
+    font-size: 20pt !important;
+    position: relative;
+    padding: 0px 0px;
+    color: #414042;
+    line-height: 27pt !important;
+  }
+  .boxBody {
+    height: 187px;
+    padding: 15px 30px;
+    margin: 9px 0px 0px 0px !important;
+  }
+  .contentArea p {
+    font-size: 24pt !important;
+    line-height: 44pt !important;
+    letter-spacing: 1px !important;
+  }
+  .innerShape {
+    max-width: unset !important;
+    margin-left: 20px;
+  }
+  .innerShape h1 {
+    color: #fff;
+    line-height: 37pt;
+    font-size: 28pt !important;
+  }
+  ul li {
+    font-size: 26pt;
+    line-height: 48px !important;
+    margin: 6px 0px !important;
+    font-family: NeueBold;
+    color: #414042;
+  }
+  .contentArea h1 {
+    width: unset;
+    margin: 40px auto;
+    text-align: center;
+    font-size: 32pt !important;
+    line-height: 41pt;
+    color: #414042;
+  }
+  .contentArea p.shortP {
+    width: 335px;
+    font-size: 28pt !important;
+    line-height: 50pt;
+  }
+
+  .innerImageSection p {
+    font-size: 21pt !important;
+    line-height: 34pt !important;
+    letter-spacing: 1px !important;
+    padding-right: 48px;
+    margin-top: 10px !important;
+}
+  .innerImageSection .col-md-6 img {
+    width: 398px !important;
+    margin-left: -53px;
+  }
+  .innerLogo img {
+    width: 300px !important;
+}
+.footerBar {
+    background: linear-gradient(90deg, #442F27 57%, #F1F2F2 97% );
+    padding: 25px 0px 15px;
+    margin: 20px 0px;
+}
+.footerLeft ul li {
+    list-style: none;
+    font-size: 22pt !important;
+    line-height: 42pt !important;
+    margin: 0px 0px 0px -30px!important;
+}
+.innerFooterRight img {
+    width: 100%;
+    margin-top: 6px;
+    margin-right: -30px;
+}
+
+/* page two************************** */
+.pageTwo .cardBody{
+    width: unset;
+        margin: 70px 25px 0px 25px;
+        padding: 50px 0px;
+}
+.pageTwo .cardBody.firstBody {
+        width: unset;
+        margin: 70px 25px 0px 25px;
+        padding: 50px 0px;
+        border-radius: 10px 10px 0px 0px;
+}
+.pageTwo .cardBody.pageTwoListArea ul li {
+    font-family: 'NeueNormal';
+    line-height: 44px;
+    font-size: 24px;
+}
+.pageTwo .imageBox.boxBody {
+    display: flex;
+    flex-direction: column;
+    width: 338px!important;
+    height: 358px !important;
+}
+.pageTwo .boxBody p {
+    font-size: 16pt !important;
+    position: relative;
+    padding: 0px 0px;
+    color: #414042;
+    line-height: 27pt !important;
+}
+
+.stepArea ul li{
+    list-style: none;
+}
+.stepArea ul li img{
+    width: 20px;
+}
+.stepArea ul li .stepTitle span {
+    font-family: BookManOldStyle;
+    font-size: 31pt;
+    line-height: 43pt;
+}
+.pageTwo .contentArea p {
+    font-size: 20pt !important;
+    line-height: 35pt !important;
+    letter-spacing: 1px !important;
+}
+
+.pageTwo .contentArea h1 {
+    width: unset;
+}
+.pageTwo .summariseArea ul li {
+    font-family: 'NeueNormal';
+    line-height: 46px !important;
+    font-size: 19px !important;
+}
+.pageTwo .summariseArea ul li {
+    display: flex !important;
+    align-content: center !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+}
+
+.summariseArea li i {
+    background: #4BAE4D;
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    padding: 3px;
+    font-size: 21px;
+    color: #fff !important;
+    margin-right: 8px;
+}
+.summariseArea .summariseBtn {
+    font-size: 30pt;
+    line-height: 50pt;
+    font-family: NeueSemiBold;
+    color: #fff !important;
+    background: #009444;
+    border-radius: 13px;
+    text-transform: uppercase;
+    width: unset;
+    height: unset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pageTwo .imageBox.boxBody {
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+    height: 358px !important;
+}
+.summariseArea .imageBox.boxBody {
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+    height: 510px !important;
+}
+.pageTwoListArea{
+    border-radius: 0px 0px 10px 10px;
+}
+}
+
+@media only screen and (max-width: 767px) {
+  * {
+    padding: 0px;
+    margin: 0px;
+  }
+  body {
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  main {
+    overflow-x: hidden;
+  }
+  .logoArea img {
+    width: 167px !important;
+    height: 51px;
+    margin: 29px auto;
+}
+  .cardBody {
+    width: unset;
+    background: #fff !important;
+    box-shadow: 5px 5px 5px #e9e9e9;
+    padding: 23px 5px;
+    margin: 0px 10px;
+    z-index: 100;
+  }
+
+  .BannerTitle {
+    font-style: normal;
+    text-align: center;
+    margin: 50px 12px;
+    font-size: 22px;
+    line-height: 30px;
+    color: #414042;
+  }
+
+  .bannerArea .subtitle {
+    font-size: 22px;
+    font-family: NeueNormal;
+    text-align: center;
+    font-weight: 600;
+    margin: 35px 0px 34px 0px;
+    color: #414042;
+  }
+  .innerImageArea {
+    max-width: unset !important;
+    height: 200px;
+    background-color: #f1f2f2;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+  }
+  .imageBox {
+    background: #f1f2f2;
+    text-align: center;
+    margin: 7px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: unset !important;
+  }
+  .boxTitle p {
+    font-size: 20pt !important;
+    color: #009444;
+    display: block;
+    line-height: 23pt !important;
+    padding: 20px 0px 14px;
+    font-weight: 600;
+  }
+  .boxBody p {
+    font-size: 18pt !important;
+    position: relative;
+    padding: 0px 0px;
+    color: #414042;
+    line-height: 21pt !important;
+  }
+  .imageBox.boxBody {
+    height: 150px;
+  }
+  .contentArea {
+    margin: 20px auto;
+    padding: 0px 5px;
+  }
+  section.fullTimePunterArea.contentArea {
+    margin-top: 0px;
+  }
+  .contentArea p {
+    font-size: 16px !important;
+    line-height: 34px !important;
+    letter-spacing: 1px !important;
+  }
+
+  .innerShape {
+    max-width: unset !important;
+    margin-left: auto;
+    padding: 0px 20px 0px 0px;
+  }
+  .innerShape h1 {
+    color: #fff;
+    line-height: 23pt;
+    font-size: 19pt !important;
+  }
+  .contentArea h1 {
+    width: unset !important;
+    margin: 46px auto;
+    text-align: center;
+    font-size: 22pt !important;
+    line-height: 27pt;
+    color: #414042;
+  }
+  ul li {
+    font-size: 14pt;
+    line-height: 22px !important;
+    margin: -16px 0px 13px 10px !important;
+    font-family: NeueBold;
+    color: #414042;
+}
+  .innerImageSection .col-md-6 img {
+    width: 342px !important;
+    margin-left: 0px;
+  }
+  .innerImage img {
+    width: 324px !important;
+  }
+
+  .contentArea p.shortP {
+    width: 200px;
+    text-align: right;
+    color: rgb(65, 64, 66);
+    font-family: NeueBold;
+    margin: 40px 0px;
+    font-size: 16pt !important;
+}
+::marker {
+    font-size: 29px;
+    line-height: 70px !important;
+}
+
+  .footerBar p {
+    color: #fff;
+    font-size: 18px !important;
+    line-height: 24px !important;
+  }
+  footer .innerLogo img {
+    width: 211px;
+  }
+  .footerLeft ul li {
+    list-style: none;
+    font-size: 17pt !important;
+    line-height: 28pt !important;
+    margin: 0px 0px 0px -30px !important;
+  }
+  .innerFooterRight img {
+    width: 71%;
+    margin: 0px 82px -9px 2px;
+    text-align: left;
+}
+  .footerBar {
+    background: linear-gradient(90deg, #442F27 65%, #F1F2F2 98% );
+    padding: 29px 0px 15px;
+    margin: 20px 0px;
+}
+
+
+
+/* page two************************************************ */
+.imageBox.boxBody {
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+}
+.cardBody.pageTwoListArea ul li {
+    font-family: 'NeueNormal';
+    line-height: 34px !important;
+    font-size: 16px !important;
+}
+.pageTwo .boxBody p {
+    font-size: 14pt !important;
+    position: relative;
+    padding: 0px 0px;
+    color: #414042;
+    line-height: 26pt !important;
+}
+.stepArea {
+    margin-top: -50px;
+    margin-left: -21px;
+    padding: 0px;
+}
+.innerStepArea {
+    padding: 0px;
+}
+.stepArea ul li{
+    list-style: none;
+}
+.stepArea ul li img{
+    width: 14px;
+    margin-right: 20px;
+}
+.stepTitle {
+    margin: 60px 0px 0px 0px;
+}
+.stepArea ul li .stepTitle span {
+    font-family: BookManOldStyle;
+    font-size: 18pt;
+    line-height: 31pt;
+}
+.contentArea h1 {
+    width: unset !important;
+    margin: 46px auto;
+    text-align: center;
+    font-size: 18pt !important;
+    line-height: 21pt;
+    color: #414042;
+}
+.winRateArea .imageBox.boxBody {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+}
+.iconListArea {
+    width: 550px;
+}
+.summariseArea .iconListArea ul li {
+    width: unset !important;
+    display: flex;
+    padding: 3px 0px 0px 90px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 13px !important;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.summariseArea li i{
+    background: #4BAE4D;
+    height: 15px;
+    width: 15px;
+    border-radius: 50px;
+    padding: 3px;
+    font-size: 8px;
+    color: #fff !important;
+    margin-right: 5px;
+}
+.signature {
+    font-family: BrittanySignatureRegular !important;
+    color: #009444 !important;
+    font-size: 25pt !important;
+    line-height: 28pt !important;
+    font-weight: 200 !important;
+}
+.btnArea {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto 35px;
+}
+.summariseArea .summariseBtn {
+    font-size: 12pt;
+    line-height: 22pt;
+    font-family: NeueSemiBold;
+    color: #fff !important;
+    background: #009444;
+    border-radius: 10px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    width: 277px !important;
+    height: auto;
+    align-items: center;
+}
+.summariseArea .summariseBtn:hover{
+    background: #fff;
+    color: #009444 !important;
+    border: 2px solid #009444;
+}
+.footerText p {
+    line-height: 26px !important;
+}
+.cardBody.firstBody {
+    margin-top: 40px;
+    border-radius: 10px 10px 0px 0px;
+}
+.cardBody.pageTwoListArea {
+    border-radius: 0px 0px 10px 10px;
+}
+.pageTwo .winRateArea {
+    max-width: 100%;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 40px 7px 80px;
+    box-shadow: 5px 5px 5px #e9e9e9;
+}
+.cardBody.pageTwoListArea ul {
+    padding-left: 10px;
+}
+section.winRateArea.pageTwo.summariseArea {
+    margin: 0px 0px 0px 16px;
+}
+
+
+}
